@@ -1,0 +1,7 @@
+git lfs track "PirateCove\Library\ArtifactDB"
+git lfs track "PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8\.Runtime\burst-llvm-19-arm64.dll"
+git lfs track "PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8\.Runtime\burst-llvm-19.dll"
+git lfs track "PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8\.Runtime\libburst-llvm-10.dylib"
+git lfs track "PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8\.Runtime\libburst-llvm-19.dylib"
+git lfs track "PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8\.Runtime\libburst-llvm-19.so"
+git lfs track "PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8\.Runtime\hostmac\dsymutil"
