@@ -1,6 +1,6 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/INFO-3120-26W-Friday-Section-2-class/PirateCove/Packages/manifest.json
+    m_FilePath: C:/Proj/3120-26W-S02-Fri/PirateCove/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -8,7 +8,7 @@ m_ProjectFiles:
       ticks: 639047962809987296
     m_Hash: 2348063340
   m_LockFileStatus:
-    m_FilePath: C:/INFO-3120-26W-Friday-Section-2-class/PirateCove/Packages/packages-lock.json
+    m_FilePath: C:/Proj/3120-26W-S02-Fri/PirateCove/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
@@ -19,7 +19,7 @@ m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: C:/INFO-3120-26W-Friday-Section-2-class/PirateCove/Packages
+m_ProjectPath: C:/Proj/3120-26W-S02-Fri/PirateCove/Packages
 m_EditorVersion: 6000.3.0f1 (d1870ce95baf)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@2.0.9
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.9
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.ai.navigation@5218e4bf7edc
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.ai.navigation@5218e4bf7edc
   assetPath: Packages/com.unity.ai.navigation
   name: com.unity.ai.navigation
   displayName: AI Navigation
@@ -66,9 +66,11 @@ m_ResolvedPackages:
     - 2.0.7
     - 2.0.8
     - 2.0.9
+    - 2.0.10
     compatible:
     - 2.0.9
-    recommended: 2.0.9
+    - 2.0.10
+    recommended: 2.0.10
     deprecated: []
   dependencies:
   - name: com.unity.modules.ai
@@ -160,7 +162,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.10.2
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.collab-proxy@3351acaba9c9
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.collab-proxy@3351acaba9c9
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -345,7 +347,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.38
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.ide.rider@1f60b3138684
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.ide.rider@1f60b3138684
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -478,7 +480,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.25
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.ide.visualstudio@74aa435fc4bb
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.ide.visualstudio@74aa435fc4bb
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -594,7 +596,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.16.0
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.inputsystem@552acc76aabe
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.inputsystem@552acc76aabe
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -803,7 +805,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.multiplayer.center@5943376a2da3
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.multiplayer.center@5943376a2da3
   assetPath: Packages/com.unity.multiplayer.center
   name: com.unity.multiplayer.center
   displayName: Multiplayer Center
@@ -899,7 +901,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 17.3.0
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.render-pipelines.universal@d9aadd996b24
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.render-pipelines.universal@d9aadd996b24
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal Render Pipeline
@@ -1024,7 +1026,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.0
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.test-framework@0b7a23ab2e1d
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.test-framework@0b7a23ab2e1d
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -1114,7 +1116,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.8.9
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.timeline@6b9e48457ddb
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.timeline@6b9e48457ddb
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1314,7 +1316,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.0
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.ugui@4ee0fac0c6e4
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.ugui@4ee0fac0c6e4
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1410,7 +1412,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.9
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.visualscripting@191c0d7e3b69
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.visualscripting@191c0d7e3b69
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -4482,7 +4484,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.5
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.ext.nunit@d8c07649098d
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.ext.nunit@d8c07649098d
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4562,7 +4564,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.3.0
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.render-pipelines.core@33b0f6d355dd
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.render-pipelines.core@33b0f6d355dd
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Scriptable Render Pipeline Core
@@ -4684,7 +4686,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.3.0
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.shadergraph@bd2576295577
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.shadergraph@bd2576295577
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -4798,7 +4800,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 17.0.3
   source: 2
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.render-pipelines.universal-config@8dc1aab4af1d
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal Render Pipeline Config
@@ -4904,7 +4906,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.4
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.searcher@d45a78918735
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.searcher@d45a78918735
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -5001,7 +5003,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.25
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.burst@1df634d836b8
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -5158,11 +5160,13 @@ m_ResolvedPackages:
     - 1.8.25
     - 1.8.26
     - 1.8.27
+    - 1.8.28
     compatible:
     - 1.8.25
     - 1.8.26
     - 1.8.27
-    recommended: 1.8.27
+    - 1.8.28
+    recommended: 1.8.28
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -5239,7 +5243,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.3.3
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.mathematics@19a9377c4ffa
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.mathematics@19a9377c4ffa
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -5339,7 +5343,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.6.2
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.collections@aea9d3bd5e19
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.collections@aea9d3bd5e19
   assetPath: Packages/com.unity.collections
   name: com.unity.collections
   displayName: Collections
@@ -5527,7 +5531,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.11.6
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil
@@ -5621,7 +5625,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.2.0
   source: 1
-  resolvedPath: C:\INFO-3120-26W-Friday-Section-2-class\PirateCove\Library\PackageCache\com.unity.test-framework.performance@0840f58e4562
+  resolvedPath: C:\Proj\3120-26W-S02-Fri\PirateCove\Library\PackageCache\com.unity.test-framework.performance@0840f58e4562
   assetPath: Packages/com.unity.test-framework.performance
   name: com.unity.test-framework.performance
   displayName: Performance testing API

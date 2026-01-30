@@ -4,8 +4,8 @@ public class PlayerShipControl : MonoBehaviour
 {
     public Vector3 shipVelocity = new Vector3(0.0f, 0.0f, 0.0f);    // Or Vector3.zero;
     public float steeringForce = 1.0f;
-    [SerializeField]
-    private int age = 0;
+//    [SerializeField]
+//    private int age = 0;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
