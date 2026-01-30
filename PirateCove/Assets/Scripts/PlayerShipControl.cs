@@ -4,13 +4,16 @@ public class PlayerShipControl : MonoBehaviour
 {
     public Vector3 shipVelocity = new Vector3(0.0f, 0.0f, 0.0f);    // Or Vector3.zero;
     public float steeringForce = 1.0f;
-//    [SerializeField]
-//    private int age = 0;
+    //    [SerializeField]
+    //    private int age = 0;
+
+    // This is played when we crash into something
+    public AudioClip CrashSound;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        //CrashSound.isReadyToPlay = true;
     }
 
     // Update is called once per frame
@@ -42,4 +45,11 @@ public class PlayerShipControl : MonoBehaviour
         //transform.position = curPos;
         transform.position += shipVelocity;
     }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Something hit us!");
+    }
+
+
 }
