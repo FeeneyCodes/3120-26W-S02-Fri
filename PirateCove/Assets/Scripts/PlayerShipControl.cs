@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerShipControl : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class PlayerShipControl : MonoBehaviour
 
     // This is played when we crash into something
     public AudioClip CrashSound;
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

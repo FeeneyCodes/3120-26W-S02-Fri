@@ -458,6 +458,7 @@
 "Assets/Scripts/BabysFirstScript.cs"
 "Assets/Scripts/InGameObjectMovement.cs"
 "Assets/Scripts/PlayerShipControl.cs"
+"Assets/Scripts/PointsManager.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
